@@ -94,14 +94,7 @@ Power BI • Excel • Git • VS Code
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
 
 ## 🎯 Goals
 
